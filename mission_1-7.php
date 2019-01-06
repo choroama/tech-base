@@ -8,10 +8,10 @@
 <body>
 
 
-<form action="http://tt-721.99sv-coco.com/mission_1-7.php" method="post">
+<form action="mission_1-7.php" method="post">
 <p>
 <input type="text" name="name" size="50">
-<!-type: text,radio など value:初期値, name:入力値 value:初期入力値->
+<!--type: text,radio など value:初期値, name:入力値 value:初期入力値-->
 <input type="submit" value="送信">
 </p> <!-pは段落区間->
 </form>

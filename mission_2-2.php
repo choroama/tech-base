@@ -7,10 +7,10 @@
 
 <body>
 
-<form action="http://tt-721.99sv-coco.com/mission_2-2.php" method="post">
+<form action="mission_2-2.php" method="post">
 <p>名前:<input type="text" name='name'></p>
 <p>コメント:<input type="text" name='comment'></p>
-<!-type: text,radio など value:初期値, name:入力値 value:初期入力値->
+<!--type: text,radio など value:初期値, name:入力値 value:初期入力値-->
 <p><input type="submit" value="送信"></p>
 
 </form>

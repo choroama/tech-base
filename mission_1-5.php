@@ -8,7 +8,7 @@
 <body>
 
 
-<form action="http://tt-721.99sv-coco.com/mission_1-5.php" method="post">
+<form action="mission_1-5.php" method="post">
 <p>
 <input type="text" name="name" size="50">
 <!-type: text,radio など value:初期値, name:入力値 value:初期入力値->

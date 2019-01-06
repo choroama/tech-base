@@ -97,7 +97,7 @@ if(isset($_POST["editnumber"]) && $_POST["editnumber"] != ""){
       fwrite($fp, $editnumber.$del.$editname.$del.$editcomment.$del.$time.$del.$pw_edit.$del."\n");
     }else{
 			fwrite($fp, $array[$i]);
-		}
+      }
 	}
 	fclose($fp);
 }

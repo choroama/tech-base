@@ -9,7 +9,7 @@
 <body>
 
 
-<form action="http://tt-721.99sv-coco.com/mission_1-4.php" method="post">
+<form action="mission_1-4.php" method="post">
 <p>
 <input type="text" name="name" value="コメント" size="50">
 <input type="submit" value="送信">
